@@ -33,7 +33,7 @@ read_email = '' < Email account.
 pass_email = '' < Email password.
 ```
 
-Configure TradingView alerts with the message according the syntax of this bot.
+Configure TradingView alerts with the message according the syntax of this bot and run EnergyB-bot.py in Python.
 
 ## Email Syntaxe
 
