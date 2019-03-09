@@ -1,0 +1,5 @@
+bitfinex_apikey = ''
+bitfinex_secret = ''
+imap = ''
+read_email = ''
+pass_email = ''
