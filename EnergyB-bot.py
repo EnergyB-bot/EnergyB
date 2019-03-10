@@ -1,5 +1,5 @@
 import ccxt
-from var import bitfinex_apikey, bitfinex_secret, imap, read_email, pass_email
+from var import bitfinex_apiKey, bitfinex_secret, imap, read_email, pass_email
 import imaplib
 import sys
 import email
