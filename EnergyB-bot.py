@@ -8,7 +8,7 @@ import time
 
 ###Exchange
 bitfinex = ccxt.bitfinex ()
-bitfinex.apikey = bitfinex_apikey
+bitfinex.apiKey = bitfinex_apiKey
 bitfinex.secret = bitfinex_secret
 
 ###Email
