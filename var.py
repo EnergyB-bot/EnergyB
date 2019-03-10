@@ -1,4 +1,4 @@
-bitfinex_apikey = ''
+bitfinex_apiKey = ''
 bitfinex_secret = ''
 imap = ''
 read_email = ''
