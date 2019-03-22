@@ -5,7 +5,6 @@ EnergyB-bot is a trading signal reader for cryptocurrency.
 
 * Internet connection
 * Email account
-* TradingView account (https://tradingview.com/)
 * Bitfinex Account (https://www.bitfinex.com/) - more exchanges coming soon
 * Python 3 (https://www.python.org/)
 * CCXT Python package (https://github.com/ccxt/ccxt)
