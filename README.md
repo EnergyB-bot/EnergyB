@@ -1,5 +1,5 @@
 # EnergyB-bot
-EnergyB-bot is a trading signal reader for cryptocurrency.
+EnergyB-bot is a trading signal reader for cryptocurrency. (TradingView compatible)
 
 ## Requirements
 
