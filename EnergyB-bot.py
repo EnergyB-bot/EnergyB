@@ -124,6 +124,7 @@ while True:
             time.sleep(1)
         except mail.abort:
             print("Abort.")
+            mail = imaplib.IMAP4_SSL(imap)
             mail.login(from_email, pass_email)
         except e:
             print(e)
