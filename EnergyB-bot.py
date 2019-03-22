@@ -124,5 +124,6 @@ while True:
             time.sleep(1)
         except mail.abort:
             print("Abort.")
+            mail.login(from_email, pass_email)
         except e:
             print(e)
