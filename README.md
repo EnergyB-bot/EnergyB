@@ -52,16 +52,3 @@ Configure TradingView alerts with the message according the syntax of this bot a
 4. Write the percentage of the balance that will be used within the square brackets.
 
 Example: EnergyB-bot long (btcusd) [5]
-
-## Contribution
-
-```
-BTC 1D56RS2GTW8gMFVVJx9DfFTSM5F569mAUw
-ETH 0xaEc547E525CB161B094230056676f0bE4B679062
-LTC Lbz6b4qS3PsWUqZEentyVN7KnVFa73e2qb
-XRP r4QtdtCKz6yRNicxGP2KccxnkBK5XR3wVu
-DASH XbnHT1K6ufXWh62CtQPnjjT6wP2jsLg2mA
-BNB 0xaEc547E525CB161B094230056676f0bE4B679062
-USDT 0xaEc547E525CB161B094230056676f0bE4B679062
-TUSD 0xaEc547E525CB161B094230056676f0bE4B679062
-```
